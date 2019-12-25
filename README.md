@@ -1,5 +1,7 @@
 # Rand
-Random dll, that can returns float value  
+Random dll, that can returns float value      
+Nuget:    
+https://www.nuget.org/packages/Rand/      
 How to use:             
 using rand;                        
 float n1 = Rand.RandomFloat(0, 999,3.8f);   
